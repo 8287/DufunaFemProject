@@ -1,0 +1,30 @@
+nav{
+    background-color:paleturquoise;
+}
+.card{
+    height: 100%;
+}
+.container{
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10%;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    font-size: 14px;
+}
+form{
+    margin-right: 25%;
+    margin-left: 25%;
+    width: 100%;
+}
+p{
+    padding: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.button {
+     color: yellow;
+}
